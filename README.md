@@ -10,7 +10,7 @@ Some important components of the application are:
 
 1. Burger: This consist sof the the build controls displayed, burger ingredients and the order summary.
 
-2. Logo: This component consists of the logo of the burget that is displayed at the appbar of the application.
+2. Logo: This component consists of the logo of the burger that is displayed at the appbar of the application.
 
 3. Navigation:  It consists of the navigation itema such as the appbar with the "Burger builder" and "Authenticate" links and the side drawer that gets displayed when operated on small size devices.
 
