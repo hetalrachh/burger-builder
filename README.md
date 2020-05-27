@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Burger builder** is a ReactJs-Redux based project deployed on firebase. 
+
+Redux is used to remove the use of local state in every component and rather have a centralized state for the entire application. The centralized state consist of the ingredients and the order level details of the user.Firebase real time data base is used to store these ingredients and order level details of the user in the database in JSON format.
+
+Firebase hosting platform is also used to host the application.
+
+Some important components of the application are:
+
+1. Burger - This consist sof the the build controls displayed, burger ingredients and the order summary.
+
+2. Logo - This component consists of the logo of the burget that is displayed at the appbar of the application.
+
+3. Navigation - It consists of the navigation itema such as the appbar with the "Burger builder" and "Authenticate" links and the side drawer that gets displaywe when operated on small size devices.
+
+4. Order - This consists of the order details and the checkout summary of the application.
+
+5. UI - This component consists of the all the common UI controls used over the application like buttons, backdrop, spinner.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
