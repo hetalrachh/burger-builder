@@ -30,9 +30,9 @@ Some inportant containers of the application are:
 
 Finally, the important part of the application i.e. store consists of actions and reducers.
 
-The application is deployed on firebase hosting platform: https://my-react-burger-ff0f1.firebaseapp.com/
+**The application is deployed on firebase hosting platform:** https://my-react-burger-ff0f1.firebaseapp.com/
 
-Demo image:
+**Demo image:**
 
 ![](/demo/demo.PNG)
 
