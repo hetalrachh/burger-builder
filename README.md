@@ -34,6 +34,7 @@ The application is deployed on firebase hosting platform: https://my-react-burge
 
 Demo image:
 
+![](/demo/demo.PNG)
 
 
 ## Available Scripts
