@@ -8,15 +8,27 @@ Firebase hosting platform is also used to host the application.
 
 Some important components of the application are:
 
-1. Burger - This consist sof the the build controls displayed, burger ingredients and the order summary.
+1. Burger: This consist sof the the build controls displayed, burger ingredients and the order summary.
 
-2. Logo - This component consists of the logo of the burget that is displayed at the appbar of the application.
+2. Logo: This component consists of the logo of the burget that is displayed at the appbar of the application.
 
-3. Navigation - It consists of the navigation itema such as the appbar with the "Burger builder" and "Authenticate" links and the side drawer that gets displaywe when operated on small size devices.
+3. Navigation:  It consists of the navigation itema such as the appbar with the "Burger builder" and "Authenticate" links and the side drawer that gets displayed when operated on small size devices.
 
-4. Order - This consists of the order details and the checkout summary of the application.
+4. Order: This consists of the order details and the checkout summary of the application.
 
-5. UI - This component consists of the all the common UI controls used over the application like buttons, backdrop, spinner.
+5. UI: This component consists of the all the common UI controls used over the application like buttons, backdrop, spinner.
+
+Some inportant containers of the application are:
+
+1. Authentication: This container handles the authentication part of the user like the signup and sign.
+
+2. BurgerBuilder: This container holds the Burger, build controls, order summary components.
+
+3. Checkout: This container consist of the checkout form which accepts details of the user before the user places an order for the burger.
+
+4. Orders: This container displays all the orders placed by the user.
+
+Finally, the important part of the application i.e. store consists of actions and reducers.
 
 
 
